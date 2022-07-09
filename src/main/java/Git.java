@@ -5,5 +5,6 @@ public class Git {
         System.out.println("hello git3");
         System.out.println("hello git4");
         System.out.println("hello master");
+        System.out.println("hello hot-fix");
     }
 }
